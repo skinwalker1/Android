@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LyndaIS</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_btn">Create</string>
+      <string name="read_btn">Read</string>
+       
+
+</resources>
